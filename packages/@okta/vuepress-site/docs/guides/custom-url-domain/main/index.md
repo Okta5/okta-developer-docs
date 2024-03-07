@@ -1,5 +1,6 @@
 ---
-title: Customize domain and email address
+Okta SSO 
+title: Customize domain and email address 
 excerpt: Learn how to setup a custom domain and a custom email address.
 layout: Guides
 ---
